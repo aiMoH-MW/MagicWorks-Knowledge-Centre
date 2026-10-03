@@ -53,3 +53,19 @@ Use a clean B2B knowledge presentation:
 - gold only as a restrained accent;
 - high contrast and strong readability;
 - avoid decorative gradients or effects that compete with the documentation.
+
+
+## Homepage logo treatment
+
+Do not place a large MagicWorks logo inside the Home page body.
+
+Preferred treatment:
+
+- use a compact logo/mark in the GitBook header;
+- let the title, typography, colour palette and navigation carry the brand;
+- keep the Home page hero text-led and spacious;
+- avoid large wordmark images on dark backgrounds because the wordmark loses contrast.
+
+For the site header, prefer the smallest clean MagicWorks logo variant that remains legible at GitBook navigation height.
+
+Default the published site to the light/ivory presentation where practical. Dark mode may remain available as a user toggle.
