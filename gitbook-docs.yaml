@@ -1,1 +1,68 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: MagicWorks Knowledge & Resource Centre
+  structure:
+    - type: section
+      key: section-home
+      title: Home
+      path: home
+      description: Start here for the MagicWorks Knowledge & Resource Centre
+      icon: house
+      default: true
+      children:
+        - type: space
+          key: space-home
+          title: Home
+          path: home-content
+          default: true
+          content:
+            directory: ./home
+            language: en
 
+    - type: section
+      key: section-knowledge
+      title: Knowledge Centre
+      path: knowledge
+      description: Practical knowledge across MagicWorks services, frameworks and buyer decisions
+      icon: book-open
+      children:
+        - type: space
+          key: space-knowledge
+          title: Knowledge Centre
+          path: knowledge-centre
+          default: true
+          content:
+            directory: ./knowledge
+            language: en
+
+    - type: section
+      key: section-help
+      title: Help Centre
+      path: help
+      description: Frequently asked questions and guidance for working with MagicWorks
+      icon: circle-question
+      children:
+        - type: space
+          key: space-help
+          title: Help Centre
+          path: help-centre
+          default: true
+          content:
+            directory: ./help
+            language: en
+
+    - type: section
+      key: section-changelog
+      title: Changelog
+      path: changelog
+      description: Updates to MagicWorks knowledge, resources and public documentation
+      icon: clock-rotate-left
+      children:
+        - type: space
+          key: space-changelog
+          title: Changelog
+          path: changelog-content
+          default: true
+          content:
+            directory: ./changelog
+            language: en
