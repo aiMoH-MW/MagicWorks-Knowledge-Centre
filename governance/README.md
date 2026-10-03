@@ -19,3 +19,6 @@ The main MagicWorks website is the canonical commercial surface. The knowledge c
 * `monthly-sop.md` — recurring maintenance
 * `30-60-90-tracker.md` — launch measurement plan
 * `management-summary.md` — management-level operating summary
+* `branding.md` — approved visual identity, logo assets and navigation
+* `ai-assistant.md` — grounded Assistant prompts and guardrails
+* `prelaunch-checklist.md` — final launch readiness checklist
