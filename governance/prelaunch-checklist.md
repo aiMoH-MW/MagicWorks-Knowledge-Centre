@@ -25,7 +25,7 @@ Do not publish the MagicWorks Knowledge & Resource Centre until this checklist i
 - [x] SEO/AEO/GEO and AI Search Visibility represented
 - [x] Buyer guidance represented
 - [x] AI-search guarantees explicitly avoided
-- [x] All 55 public content pages have description metadata and an H1
+- [x] All 56 public content pages have description metadata and an H1
 - [x] Public SUMMARY navigation contains no missing paths
 - [x] Five pillar landing pages link to their canonical MagicWorks service pages
 - [ ] Final human skim of homepage and major pillar landing pages in GitBook Preview
