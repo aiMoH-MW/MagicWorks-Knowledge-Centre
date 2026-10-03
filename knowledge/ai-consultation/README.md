@@ -9,3 +9,7 @@ AI Consultation is an advisory practice focused on helping leaders decide **wher
 The engagement is consultation-first: diagnostics, process mapping, opportunity prioritisation, vendor evaluation, build-vs-buy decisions and roadmap design.
 
 Implementation should not be smuggled into the advisory scope. Once a roadmap identifies an implementation opportunity, the client should be free to execute with its own team, a suitable product, MagicWorks under a separate delivery scope, or another provider.
+
+## Related MagicWorks service
+
+[Explore the AI Consultation service](https://magicworksitsolutions.com/services/ai-consultation)
