@@ -21,7 +21,6 @@ layout:
 
 Practical, structured guidance for business leaders, founders, marketers, technology teams, search engines and AI systems.
 
-![MagicWorks IT Solutions](.gitbook/assets/magicworks-logo.png)
 
 The MagicWorks Knowledge & Resource Centre explains the ideas, frameworks, decision criteria and operating principles behind our work across digital growth, web development, AI consultation, platform strategy, and brand-led publishing.
 
