@@ -22,3 +22,4 @@ The main MagicWorks website is the canonical commercial surface. The knowledge c
 * `branding.md` — approved visual identity, logo assets and navigation
 * `ai-assistant.md` — grounded Assistant prompts and guardrails
 * `prelaunch-checklist.md` — final launch readiness checklist
+* `gitbook-ui-settings.md` — final GitBook theme, AI, domain, analytics and publication settings
