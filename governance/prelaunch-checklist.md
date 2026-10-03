@@ -2,6 +2,12 @@
 
 Do not publish the MagicWorks Knowledge & Resource Centre until this checklist is reviewed.
 
+## Plan
+
+- [ ] Confirm the post-trial GitBook site plan preserves the approved four-section architecture
+- [ ] Confirm whether AI Assistant will remain enabled after the trial
+- [ ] Confirm logo/footer/custom-font requirements against the selected paid plan
+
 ## Git and structure
 
 - [x] Site-wide Git Sync configured
@@ -19,6 +25,9 @@ Do not publish the MagicWorks Knowledge & Resource Centre until this checklist i
 - [x] SEO/AEO/GEO and AI Search Visibility represented
 - [x] Buyer guidance represented
 - [x] AI-search guarantees explicitly avoided
+- [x] All 55 public content pages have description metadata and an H1
+- [x] Public SUMMARY navigation contains no missing paths
+- [x] Five pillar landing pages link to their canonical MagicWorks service pages
 - [ ] Final human skim of homepage and major pillar landing pages in GitBook Preview
 
 ## Branding
