@@ -14,3 +14,7 @@ A useful digital marketing programme answers four questions:
 2. What happens after the click?
 3. Can attribution distinguish useful activity from vanity metrics?
 4. What should be changed next based on evidence?
+
+## Related MagicWorks service
+
+[Explore the Digital Marketing service](https://magicworksitsolutions.com/services/digital-marketing)
