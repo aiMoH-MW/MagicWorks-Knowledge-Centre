@@ -3,66 +3,51 @@ site:
   title: MagicWorks Knowledge & Resource Centre
   structure:
     - type: section
-      key: section-home
+      key: section-1
       title: Home
       path: home
-      description: Start here for the MagicWorks Knowledge & Resource Centre
-      icon: house
       default: true
       children:
         - type: space
-          key: space-home
+          key: space-1
           title: Home
-          path: home-content
+          path: home
           default: true
           content:
             directory: ./home
-            language: en
-
     - type: section
-      key: section-knowledge
+      key: section-2
       title: Knowledge Centre
-      path: knowledge
-      description: Practical knowledge across MagicWorks services, frameworks and buyer decisions
-      icon: book-open
+      path: knowledge-centre
       children:
         - type: space
-          key: space-knowledge
+          key: space-2
           title: Knowledge Centre
           path: knowledge-centre
           default: true
           content:
-            directory: ./knowledge
-            language: en
-
+            directory: ./knowledge-centre
     - type: section
-      key: section-help
+      key: section-3
       title: Help Centre
-      path: help
-      description: Frequently asked questions and guidance for working with MagicWorks
-      icon: circle-question
+      path: help-centre
       children:
         - type: space
-          key: space-help
+          key: space-3
           title: Help Centre
           path: help-centre
           default: true
           content:
-            directory: ./help
-            language: en
-
+            directory: ./help-centre
     - type: section
-      key: section-changelog
+      key: section-4
       title: Changelog
       path: changelog
-      description: Updates to MagicWorks knowledge, resources and public documentation
-      icon: clock-rotate-left
       children:
         - type: space
-          key: space-changelog
+          key: space-4
           title: Changelog
-          path: changelog-content
+          path: changelog
           default: true
           content:
             directory: ./changelog
-            language: en
