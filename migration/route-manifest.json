@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "source": "GitBook-compatible Markdown in this repository",
+  "canonicalDomain": "https://knowledge.magicworksitsolutions.com",
+  "generatedFrom": [
+    "home/SUMMARY.md",
+    "knowledge/SUMMARY.md",
+    "help/SUMMARY.md",
+    "changelog/SUMMARY.md"
+  ],
+  "routes": [
+    {
+      "section": "home",
+      "title": "MagicWorks Knowledge & Resource Centre",
+      "source": "home/README.md",
+      "route": "/"
+    },
+    {
+      "section": "home",
+      "title": "About MagicWorks",
+      "source": "home/about-magicworks.md",
+      "route": "/about-magicworks"
+    },
+    {
+      "section": "home",
+      "title": "How to use this knowledge centre",
+      "source": "home/how-to-use-this-centre.md",
+      "route": "/how-to-use-this-centre"
+    },
+    {
+      "section": "home",
+      "title": "The five-pillar service model",
+      "source": "home/five-pillar-service-model.md",
+      "route": "/five-pillar-service-model"
+    },
+    {
+      "section": "knowledge",
+      "title": "Knowledge Centre",
+      "source": "knowledge/README.md",
+      "route": "/knowledge"
+    },
+    {
+      "section": "knowledge",
+      "title": "Service architecture",
+      "source": "knowledge/magicworks/service-architecture.md",
+      "route": "/knowledge/magicworks/service-architecture"
+    },
+    {
+      "section": "knowledge",
+      "title": "Delivery vs advisory",
+      "source": "knowledge/magicworks/delivery-vs-advisory.md",
+      "route": "/knowledge/magicworks/delivery-vs-advisory"
+    },
+    {
+      "section": "knowledge",
+      "title": "MagicWorks group and products",
+      "source": "knowledge/magicworks/group-and-products.md",
+      "route": "/knowledge/magicworks/group-and-products"
+    },
+    {
+      "section": "knowledge",
+      "title": "Digital Marketing",
+      "source": "knowledge/digital-marketing/README.md",
+      "route": "/knowledge/digital-marketing"
+    },
+    {
+      "section": "knowledge",
+      "title": "Performance marketing",
+      "source": "knowledge/digital-marketing/performance-marketing.md",
+      "route": "/knowledge/digital-marketing/performance-marketing"
+    },
+    {
+      "section": "knowledge",
+      "title": "Full-funnel digital marketing",
+      "source": "knowledge/digital-marketing/full-funnel-marketing.md",
+      "route": "/knowledge/digital-marketing/full-funnel-marketing"
+    },
+    {
+      "section": "knowledge",
+      "title": "Conversion optimisation",
+      "source": "knowledge/digital-marketing/conversion-optimization.md",
+      "route": "/knowledge/digital-marketing/conversion-optimization"
+    },
+    {
+      "section": "knowledge",
+      "title": "Measurement and attribution",
+      "source": "knowledge/digital-marketing/measurement-and-attribution.md",
+      "route": "/knowledge/digital-marketing/measurement-and-attribution"
+    },
+    {
+      "section": "knowledge",
+      "title": "SEO, AEO and GEO",
+      "source": "knowledge/seo-aeo-geo/README.md",
+      "route": "/knowledge/seo-aeo-geo"
+    },
+    {
+      "section": "knowledge",
+      "title": "SEO vs AEO vs GEO",
+      "source": "knowledge/seo-aeo-geo/seo-vs-aeo-vs-geo.md",
+      "route": "/knowledge/seo-aeo-geo/seo-vs-aeo-vs-geo"
+    },
+    {
+      "section": "knowledge",
+      "title": "AI Search Visibility",
+      "source": "knowledge/seo-aeo-geo/ai-search-visibility.md",
+      "route": "/knowledge/seo-aeo-geo/ai-search-visibility"
+    },
+    {
+      "section": "knowledge",
+      "title": "The ANSWER Framework",
+      "source": "knowledge/seo-aeo-geo/answer-framework.md",
+      "route": "/knowledge/seo-aeo-geo/answer-framework"
+    },
+    {
+      "section": "knowledge",
+      "title": "Entity architecture",
+      "source": "knowledge/seo-aeo-geo/entity-architecture.md",
+      "route": "/knowledge/seo-aeo-geo/entity-architecture"
+    },
+    {
+      "section": "knowledge",
+      "title": "Answer-first content",
+      "source": "knowledge/seo-aeo-geo/answer-first-content.md",
+      "route": "/knowledge/seo-aeo-geo/answer-first-content"
+    },
+    {
+      "section": "knowledge",
+      "title": "Knowledge-layer architecture",
+      "source": "knowledge/seo-aeo-geo/knowledge-layer-architecture.md",
+      "route": "/knowledge/seo-aeo-geo/knowledge-layer-architecture"
+    },
+    {
+      "section": "knowledge",
+      "title": "Trust and evidence",
+      "source": "knowledge/seo-aeo-geo/trust-evidence.md",
+      "route": "/knowledge/seo-aeo-geo/trust-evidence"
+    },
+    {
+      "section": "knowledge",
+      "title": "How to measure a knowledge layer",
+      "source": "knowledge/seo-aeo-geo/measurement.md",
+      "route": "/knowledge/seo-aeo-geo/measurement"
+    },
+    {
+      "section": "knowledge",
+      "title": "AI Consultation",
+      "source": "knowledge/ai-consultation/README.md",
+      "route": "/knowledge/ai-consultation"
+    },
+    {
+      "section": "knowledge",
+      "title": "AI readiness",
+      "source": "knowledge/ai-consultation/ai-readiness.md",
+      "route": "/knowledge/ai-consultation/ai-readiness"
+    },
+    {
+      "section": "knowledge",
+      "title": "AI process audit",
+      "source": "knowledge/ai-consultation/process-audit.md",
+      "route": "/knowledge/ai-consultation/process-audit"
+    },
+    {
+      "section": "knowledge",
+      "title": "Build vs buy",
+      "source": "knowledge/ai-consultation/build-vs-buy.md",
+      "route": "/knowledge/ai-consultation/build-vs-buy"
+    },
+    {
+      "section": "knowledge",
+      "title": "AI vendor evaluation",
+      "source": "knowledge/ai-consultation/vendor-evaluation.md",
+      "route": "/knowledge/ai-consultation/vendor-evaluation"
+    },
+    {
+      "section": "knowledge",
+      "title": "The 90-day AI pilot",
+      "source": "knowledge/ai-consultation/90-day-pilot.md",
+      "route": "/knowledge/ai-consultation/90-day-pilot"
+    },
+    {
+      "section": "knowledge",
+      "title": "AI Automation knowledge",
+      "source": "knowledge/ai-automation/README.md",
+      "route": "/knowledge/ai-automation"
+    },
+    {
+      "section": "knowledge",
+      "title": "Selecting workflows for automation",
+      "source": "knowledge/ai-automation/workflow-selection.md",
+      "route": "/knowledge/ai-automation/workflow-selection"
+    },
+    {
+      "section": "knowledge",
+      "title": "Human oversight",
+      "source": "knowledge/ai-automation/human-oversight.md",
+      "route": "/knowledge/ai-automation/human-oversight"
+    },
+    {
+      "section": "knowledge",
+      "title": "Web Development",
+      "source": "knowledge/web-development/README.md",
+      "route": "/knowledge/web-development"
+    },
+    {
+      "section": "knowledge",
+      "title": "What is an AI-native website?",
+      "source": "knowledge/web-development/ai-native-websites.md",
+      "route": "/knowledge/web-development/ai-native-websites"
+    },
+    {
+      "section": "knowledge",
+      "title": "Next.js vs WordPress",
+      "source": "knowledge/web-development/nextjs-vs-wordpress.md",
+      "route": "/knowledge/web-development/nextjs-vs-wordpress"
+    },
+    {
+      "section": "knowledge",
+      "title": "Headless CMS",
+      "source": "knowledge/web-development/headless-cms.md",
+      "route": "/knowledge/web-development/headless-cms"
+    },
+    {
+      "section": "knowledge",
+      "title": "Measurement-ready websites",
+      "source": "knowledge/web-development/measurement-ready-websites.md",
+      "route": "/knowledge/web-development/measurement-ready-websites"
+    },
+    {
+      "section": "knowledge",
+      "title": "Technical foundations for search and AI",
+      "source": "knowledge/web-development/search-ai-foundations.md",
+      "route": "/knowledge/web-development/search-ai-foundations"
+    },
+    {
+      "section": "knowledge",
+      "title": "Marketplace & Platform Consultation",
+      "source": "knowledge/platform-strategy/README.md",
+      "route": "/knowledge/platform-strategy"
+    },
+    {
+      "section": "knowledge",
+      "title": "Platform roadmap decisions",
+      "source": "knowledge/platform-strategy/platform-roadmap.md",
+      "route": "/knowledge/platform-strategy/platform-roadmap"
+    },
+    {
+      "section": "knowledge",
+      "title": "Cold start and liquidity",
+      "source": "knowledge/platform-strategy/cold-start-and-liquidity.md",
+      "route": "/knowledge/platform-strategy/cold-start-and-liquidity"
+    },
+    {
+      "section": "knowledge",
+      "title": "Platform advisor vs builder",
+      "source": "knowledge/platform-strategy/platform-advisor-vs-builder.md",
+      "route": "/knowledge/platform-strategy/platform-advisor-vs-builder"
+    },
+    {
+      "section": "knowledge",
+      "title": "Brand, Research & Publishing",
+      "source": "knowledge/brand-research-publishing/README.md",
+      "route": "/knowledge/brand-research-publishing"
+    },
+    {
+      "section": "knowledge",
+      "title": "Durable brand systems",
+      "source": "knowledge/brand-research-publishing/durable-brand-systems.md",
+      "route": "/knowledge/brand-research-publishing/durable-brand-systems"
+    },
+    {
+      "section": "knowledge",
+      "title": "Whitepapers, playbooks and case studies",
+      "source": "knowledge/brand-research-publishing/published-expertise.md",
+      "route": "/knowledge/brand-research-publishing/published-expertise"
+    },
+    {
+      "section": "knowledge",
+      "title": "Whitepaper vs playbook vs case study",
+      "source": "knowledge/brand-research-publishing/whitepaper-vs-playbook-vs-case-study.md",
+      "route": "/knowledge/brand-research-publishing/whitepaper-vs-playbook-vs-case-study"
+    },
+    {
+      "section": "knowledge",
+      "title": "Choosing a digital marketing partner",
+      "source": "knowledge/buyer-guides/choosing-digital-marketing-partner.md",
+      "route": "/knowledge/buyer-guides/choosing-digital-marketing-partner"
+    },
+    {
+      "section": "knowledge",
+      "title": "Choosing an AI consultant",
+      "source": "knowledge/buyer-guides/choosing-ai-consultant.md",
+      "route": "/knowledge/buyer-guides/choosing-ai-consultant"
+    },
+    {
+      "section": "knowledge",
+      "title": "Choosing a web development partner",
+      "source": "knowledge/buyer-guides/choosing-web-development-partner.md",
+      "route": "/knowledge/buyer-guides/choosing-web-development-partner"
+    },
+    {
+      "section": "knowledge",
+      "title": "Choosing a knowledge-layer partner",
+      "source": "knowledge/buyer-guides/choosing-knowledge-layer-partner.md",
+      "route": "/knowledge/buyer-guides/choosing-knowledge-layer-partner"
+    },
+    {
+      "section": "knowledge",
+      "title": "Case-study learnings",
+      "source": "knowledge/case-study-learnings/README.md",
+      "route": "/knowledge/case-study-learnings"
+    },
+    {
+      "section": "help",
+      "title": "Help Centre",
+      "source": "help/README.md",
+      "route": "/help"
+    },
+    {
+      "section": "help",
+      "title": "Knowledge centre vs main website",
+      "source": "help/knowledge-centre-vs-main-website.md",
+      "route": "/help/knowledge-centre-vs-main-website"
+    },
+    {
+      "section": "help",
+      "title": "AI visibility claims",
+      "source": "help/ai-visibility-claims.md",
+      "route": "/help/ai-visibility-claims"
+    },
+    {
+      "section": "help",
+      "title": "Corrections and governance",
+      "source": "help/corrections-and-governance.md",
+      "route": "/help/corrections-and-governance"
+    },
+    {
+      "section": "help",
+      "title": "AI and machine-readable access",
+      "source": "help/ai-and-machine-access.md",
+      "route": "/help/ai-and-machine-access"
+    },
+    {
+      "section": "changelog",
+      "title": "Changelog",
+      "source": "changelog/README.md",
+      "route": "/changelog"
+    }
+  ]
+}
